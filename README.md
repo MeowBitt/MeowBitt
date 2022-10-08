@@ -1,1 +1,3 @@
-https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical
+<detail>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=meowbitt&show_icons=true&theme=radical">
+  </detail>
